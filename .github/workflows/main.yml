@@ -1,6 +1,5 @@
 jobs:
   build:
-    runs-on: ubuntu-latest
     steps:
       # Installe java 8 sur l'agent
       - name: Set up JDK 8
